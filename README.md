@@ -1,4 +1,5 @@
 #  Data Pipeline & Dashboard de Monitoring Système en Temps Réel
+<img width="1536" height="1024" alt="ChatGPT Image 20 févr  2026, 11_25_32" src="https://github.com/user-attachments/assets/a5e6fc6c-1c46-4744-8830-2d45b4c9f9c0" />
 
 ##  Présentation du projet
 
